@@ -1,22 +1,55 @@
 ABOUT
 -----
 
-I started this project as an experiment with the HTML5 canvas element. It grew a bit bigger than what I had imagined, as I kept adding features, just for the fun and challenge of dealing with geometrical concepts. Also, for jigsaw puzzle fans out there, I am just happy to enable you to create your own puzzle, small or big, easy or hard, and with no strings attached (no ads, no questions asked, etc.)
+I started this project as an experiment with the HTML5 canvas element.
+It grew a bit bigger than what I had imagined, as I kept adding features,
+just for the fun and challenge of dealing with geometrical concepts.
+Also, for jigsaw puzzle fans out there, I am just happy to enable you to
+create your own puzzle, small or big, easy or hard, and with no strings
+attached (no ads, no questions asked, etc.)
 
 Portions of this software use the work of...
   * Images:
-    * "Autumn Fruits", by Petr Kratochvil <http://www.publicdomainpictures.net/view-image.php?image=376>: The default picture used in preview mode.
-    * "Melbourne Australia", by Michael Stirling <http://www.publicdomainpictures.net/view-image.php?image=2876>: The default picture used in full mode.
+    * "Autumn Fruits", by Petr Kratochvil
+      <http://www.publicdomainpictures.net/view-image.php?image=376>:
+      The default picture used in preview mode.
+    * "Melbourne Australia", by Michael Stirling
+      <http://www.publicdomainpictures.net/view-image.php?image=2876>:
+      The default picture used in full mode.
   * Sound effects:
-    * The Freesound Project's "klick - 01.wav" <http://www.freesound.org/samplesViewSingle.php?id=12842>, by Marcus Horndt <http://www.freesound.org/usersViewSingle.php?id=4942>
-    * The Freesound Project's "klick - 02.wav" <http://www.freesound.org/samplesViewSingle.php?id=12843>, by Marcus Horndt <http://www.freesound.org/usersViewSingle.php?id=4942>
-    * The Freesound Project's "applause_5sec.wav" <http://www.freesound.org/samplesViewSingle.php?id=35102>, by Mirko Horstmann <http://www.freesound.org/usersViewSingle.php?id=140756>
-    * The Freesound Project's "applause_5sec.wav" <http://www.freesound.org/samplesViewSingle.php?id=35104>, by Mirko Horstmann <http://www.freesound.org/usersViewSingle.php?id=140756>
-    * The Freesound Project's "Applause 9s.mp3" <http://www.freesound.org/samplesViewSingle.php?id=60789>, by J.Zazvurek <http://www.freesound.org/usersViewSingle.php?id=199526>
+    * The Freesound Project's "klick - 01.wav"
+      <http://www.freesound.org/samplesViewSingle.php?id=12842>,
+      by Marcus Horndt
+      <http://www.freesound.org/usersViewSingle.php?id=4942>
+    * The Freesound Project's "klick - 02.wav"
+      <http://www.freesound.org/samplesViewSingle.php?id=12843>,
+      by Marcus Horndt <http://www.freesound.org/usersViewSingle.php?id=4942>
+    * The Freesound Project's "applause_5sec.wav"
+      <http://www.freesound.org/samplesViewSingle.php?id=35102>,
+      by Mirko Horstmann
+      <http://www.freesound.org/usersViewSingle.php?id=140756>
+    * The Freesound Project's "applause_5sec.wav"
+      <http://www.freesound.org/samplesViewSingle.php?id=35104>,
+      by Mirko Horstmann
+      <http://www.freesound.org/usersViewSingle.php?id=140756>
+    * The Freesound Project's "Applause 9s.mp3"
+      <http://www.freesound.org/samplesViewSingle.php?id=60789>,
+      by J.Zazvurek
+      <http://www.freesound.org/usersViewSingle.php?id=199526>
   * Software:
-    * "Calculating the area and centroid of a polygon", by Paul Bourke <http://local.wasp.uwa.edu.au/~pbourke/geometry/polyarea/>: For his code snippets on how to calculate the centroid of a polygon (necessary to be able to rotate pieces properly.)
-    * "Javascript base64" <http://www.webtoolkit.info/javascript-base64.html>: For the code snippet on how to encode/decode Base 64 (I used Base 64 to encode/decode Jigsaw Puzzle Keys, the current mechanism to share custom-made puzzles.
-    * "Event properties / Mouse position" <http://www.quirksmode.org/js/events_properties.html#position>, by Peter-Paul Koch: For his code snippet on how to correctly detect mouse coordinates.
+    * "Calculating the area and centroid of a polygon", by Paul Bourke
+       <http://local.wasp.uwa.edu.au/~pbourke/geometry/polyarea/>:
+       For his code snippets on how to calculate the centroid of a polygon
+       (necessary to be able to rotate pieces properly.)
+    * "Javascript base64"
+      <http://www.webtoolkit.info/javascript-base64.html>:
+      For the code snippet on how to encode/decode Base 64
+      (I use Base 64 to encode/decode Jigsaw Puzzle Keys, the current
+      mechanism to share custom-made puzzles.
+    * "Event properties / Mouse position"
+      <http://www.quirksmode.org/js/events_properties.html#position>,
+      by Peter-Paul Koch:
+      For his code snippet on how to correctly detect mouse coordinates.
 
 
 LICENSE
@@ -30,9 +63,13 @@ You are free:
   * to Share - to copy, distribute and transmit the work
   * to Remix - to adapt the work
   * Under the following conditions:
-  * Attribution - You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+    * Attribution - You must attribute the work in the manner specified
+      by the author or licensor (but not in any way that suggests that
+      they endorse you or your use of the work).
     * Noncommercial - You may not use this work for commercial purposes.
-    * Share Alike - If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar licence to this one.
+    * Share Alike - If you alter, transform, or build upon this work, you
+      may distribute the resulting work only under the same or similar
+      licence to this one.
 [More: <http://creativecommons.org/licenses/by-nc-sa/2.5/ca/>]
 
 
