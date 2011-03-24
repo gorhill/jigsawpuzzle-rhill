@@ -1,0 +1,34 @@
+jigsawpuzzle-rhill 0.4 (14-Jun-2009) (c) by Raymond Hill
+
+jigsawpuzzle-rhill licensed under a Creative Commons
+Attribution-Noncommercial-Share Alike 2.5 Canada License.
+You are free:
+ * to Share - to copy, distribute and transmit the work
+ * to Remix - to adapt the work
+ * Under the following conditions:
+ * Attribution - You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+  * Noncommercial - You may not use this work for commercial purposes.
+  * Share Alike - If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar licence to this one.
+[More: <http://creativecommons.org/licenses/by-nc-sa/2.5/ca/>]
+
+FILES
+-----
+jigsawpuzzle-rhill.js : The Javascript code implementing Jigsaw puzzle and UI interaction
+jigsawpuzzle-rhill.php : The web page to display/solve/create Jigsaw puzzles
+dbconfig.php : The parameters required to open a connection to a MySQL database
+
+IMAGES
+------
+default.jpg : The image to use by default
+
+AUDIO
+-----
+12842__schluppipuppie__klick_01.ogg / 12842__schluppipuppie__klick_01.wav : Snap sound #1
+12843__schluppipuppie__klick_02.ogg / 12843__schluppipuppie__klick_02.wav : Snap sound #2
+35102_m1rk0_applause_5sec.ogg / 35102_m1rk0_applause_5sec.mp3 : Short applause
+35104_m1rk0_applause_8sec.ogg / 35104_m1rk0_applause_8sec.mp3 : Medium applause
+60789_J.Zazvurek_Applause_9s.ogg / 60789_J.Zazvurek_Applause_9s.ogg: Long applause
+
+DATA
+----
+jigsawpuzzle-rhill-create.sql : SQL dump of database structure
