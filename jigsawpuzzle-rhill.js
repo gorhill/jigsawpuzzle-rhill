@@ -1,9 +1,29 @@
-/**
- jigsawpuzzle-rhill 0.4 (14-Jun-2009) (c) by Raymond Hill
+/******************************************************************************
 
- jigsawpuzzle-rhill licensed under a Creative Commons
- Attribution-Noncommercial-Share Alike 2.5 Canada License.
- Source: http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php
+jigsawpuzzle-rhill 0.4 (14-Jun-2009) (c) by Raymond Hill
+Source: http://www.raymondhill.net/puzzle-rhill/jigsawpuzzle-rhill.php
+License (changed on 2011-12-02 from GPL): MIT license
+
+Copyright (C) 2009-2011 by Raymond Hill
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
 **/
 
 /*This makes JSlint happy*/
@@ -1851,9 +1871,9 @@ function Puzzle(id,puzzleOptions) {
 		var defaultOptions={
 			view:'full',
 			cut:'classic',
-			screenSize:'h600',
-			src:'http://www.raymondhill.net/puzzle-rhill/default.jpg',
-			numPieces:{full:30,mini:10},
+			screenSize:'h768',
+			src:'http://www.raymondhill.net/puzzle-rhill/images/full-IMG_1731.jpg',
+			numPieces:{full:25,mini:10},
 			complexity:1,
 			numRotateSteps:{full:24,mini:1},
 			showPreview:false};
