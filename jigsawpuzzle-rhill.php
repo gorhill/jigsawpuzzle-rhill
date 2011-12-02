@@ -248,16 +248,14 @@ Also, for jigsaw puzzle fans out there, I am just happy to enable you to create 
   <li><a target="_blank" href="http://www.quirksmode.org/js/events_properties.html#position">&ldquo;Event properties / Mouse position&rdquo;, by Peter-Paul Koch</a>: For his code snippet on how to correctly detect mouse coordinates.</li>
   </ul></li>
  </ul>
-<p><a href="http://www.raymondhill.net/" rel="cc:attributionURL">Jigsaw Puzzle by Raymond Hill</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Creative Commons Attribution-Noncommercial-Share Alike 2.5 Canada License</a>.
-You are free to use or reuse all or portion of this work for non-commercial purpose as long as you link back to the <a href="http://www.raymondhill.net/">author's page</a>.
-If you're planning to derive revenue from all or significant portion of this software (e.g., by running any advertisements on the page, selling anything, etc.), you'll need to ask the express permission of <a id="email" href="#">the author</a>.
-<script type="text/javascript">
-<!--
-self.document.getElementById('email').href=('llihr-elzzuP wasgiJ=tcejbus?ten.llihdnomyar@llihr:otliam'.split('').reverse().join(''));
-// -->
-</script>
+<p><a href="http://www.raymondhill.net/">Jigsaw Puzzle by Raymond Hill</a> is licensed under a <a rel="license" href="http://www.opensource.org/licenses/mit-license.php">MIT License (MIT)</a>:</p>
+<blockquote>
+<p>Copyright (c) 2009-2011 Raymond Hill</p>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+</blockquote>
 </p>
-<p><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/"><img alt="Creative Commons License" style="border-width:0" src="creativecommons-88x31.png" /></a></p>
 </div>
 </div>
 
